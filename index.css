@@ -1,0 +1,40 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  color: white;
+  font-family: Monospace;
+}
+p{
+  color: white;
+}
+small{
+  color:#8d8888;
+}
+.img{
+  height: 100px;
+  width: 100px;
+  border: 1px;
+  border-radius: 50%;
+}
+body{
+    position: absolute;
+    top: 50px;
+    background-image: url('img/pata.jpg');
+    background-size: cover;
+    background-color: rgba(0,0,0,0.5);
+}
+.bh{
+  text-align: center;
+}
+.fgw{
+  
+  height: 80px;
+  width: 100px;
+  border: 1px solid brown;
+  border-radius: 15px;
+  padding-top: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color:#252020;
+  display: inline-block;
+}

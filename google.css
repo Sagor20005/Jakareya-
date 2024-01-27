@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  color: #DCE775;
+  font-family: Monospace;
+}
+h1{
+  margin: 3px 0px 3px 3px;
+}
+body{
+  background-color: #1D0007;: ;
+}
+.line-1-content{
+  height: 150px;
+  width: 90%;
+  border: 2px solid #A30060;
+  background-color: #A30060;
+  border-radius: 15px;
+  margin: 20px;
+  text-align: center;
+  padding-top: 10px;
+  
+}
+p{
+  margin-top: 20px;
+  color:#888084;
+}
